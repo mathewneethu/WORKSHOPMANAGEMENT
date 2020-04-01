@@ -1,0 +1,9 @@
+E:\RealTimeProjectNew\BOL\BLL\bin\Debug\BLL.dll
+E:\RealTimeProjectNew\BOL\BLL\bin\Debug\BLL.pdb
+E:\RealTimeProjectNew\BOL\BLL\bin\Debug\BOL.dll
+E:\RealTimeProjectNew\BOL\BLL\bin\Debug\DAL.dll
+E:\RealTimeProjectNew\BOL\BLL\bin\Debug\BOL.pdb
+E:\RealTimeProjectNew\BOL\BLL\bin\Debug\DAL.pdb
+E:\RealTimeProjectNew\BOL\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\RealTimeProjectNew\BOL\BLL\obj\Debug\BLL.dll
+E:\RealTimeProjectNew\BOL\BLL\obj\Debug\BLL.pdb

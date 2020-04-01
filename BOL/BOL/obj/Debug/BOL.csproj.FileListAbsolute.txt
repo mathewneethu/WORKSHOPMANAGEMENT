@@ -1,0 +1,5 @@
+E:\RealTimeProjectNew\BOL\BOL\bin\Debug\BOL.dll
+E:\RealTimeProjectNew\BOL\BOL\bin\Debug\BOL.pdb
+E:\RealTimeProjectNew\BOL\BOL\obj\Debug\BOL.dll
+E:\RealTimeProjectNew\BOL\BOL\obj\Debug\BOL.pdb
+E:\RealTimeProjectNew\BOL\BOL\obj\Debug\BOL.csprojResolveAssemblyReference.cache
